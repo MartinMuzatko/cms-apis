@@ -39,7 +39,7 @@
         "solutions": [false,true,false],
         "links": [
             ["plugin", "https://extensions.joomla.org/extension/capi-core-rest-api/"],
-            ["plugin", "https://extensions.joomla.org/extension/rest-api/"],
+            ["plugin", "https://extensions.joomla.org/extension/rest-api/"]
         ]
     }
 ]
