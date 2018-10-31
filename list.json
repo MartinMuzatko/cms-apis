@@ -1,0 +1,45 @@
+[
+    {
+        "name": "TYPO3",
+        "solutions": [false,true,false],
+        "links": [
+            ["plugin", "https://extensions.typo3.org/extension/rest/"]
+        ]
+    },
+    {
+        "name": "Wordpress",
+        "solutions": [true,false,false],
+        "links": [
+            ["docs", "https://developer.wordpress.org/rest-api/"]
+        ]
+    },
+    {
+        "name": "Drupal",
+        "solutions": [true,false,false],
+        "links": [
+            ["docs", "https://www.drupal.org/docs/8/api/restful-web-services-api/restful-web-services-api-overview"]
+        ]
+    },
+    {
+        "name": "Processwire",
+        "solutions": [false,true,false],
+        "links": [
+            ["docs", "http://modules.processwire.com/modules/rest-api/"]
+        ]
+    },
+    {
+        "name": "Magento",
+        "solutions": [true,false,false],
+        "links": [
+            ["docs", "https://devdocs.magento.com/guides/m1x/api/rest/introduction.html"]
+        ]
+    },
+    {
+        "name": "Joomla",
+        "solutions": [false,true,false],
+        "links": [
+            ["plugin", "https://extensions.joomla.org/extension/capi-core-rest-api/"],
+            ["plugin", "https://extensions.joomla.org/extension/rest-api/"],
+        ]
+    }
+]
